@@ -1,0 +1,116 @@
+[System Process]	0	TCP	win10-5	49935	server-13-224-29-95.sea19.r.cloudfront.net	https	TIME_WAIT										
+[System Process]	0	TCP	win10-5	49936	server-13-224-29-127.sea19.r.cloudfront.net	https	TIME_WAIT										
+[System Process]	0	TCP	win10-5	49938	40.90.22.191	https	TIME_WAIT										
+[System Process]	0	TCP	win10-5	49940	20.188.74.161	https	TIME_WAIT										
+[System Process]	0	TCP	win10-5	49942	65.52.108.90	https	TIME_WAIT										
+[System Process]	0	TCP	win10-5	49943	40.122.160.14	https	TIME_WAIT										
+[System Process]	0	TCP	win10-5	49944	40.122.160.14	https	TIME_WAIT										
+[System Process]	0	TCP	win10-5	49945	40.122.160.14	https	TIME_WAIT										
+[System Process]	0	TCP	win10-5	49955	s3-1-w.amazonaws.com	https	TIME_WAIT										
+[System Process]	0	TCP	win10-5	49956	s3-1-w.amazonaws.com	https	TIME_WAIT										
+[System Process]	0	TCP	win10-5	49968	204.79.197.220	https	TIME_WAIT										
+[System Process]	0	TCP	win10-5	49969	204.79.197.220	https	TIME_WAIT										
+[System Process]	0	TCP	win10-5	49970	204.79.197.220	https	TIME_WAIT										
+[System Process]	0	TCP	win10-5	49971	204.79.197.220	https	TIME_WAIT										
+[System Process]	0	TCP	win10-5	49972	204.79.197.220	https	TIME_WAIT										
+[System Process]	0	TCP	win10-5	49973	204.79.197.220	https	TIME_WAIT										
+[System Process]	0	TCP	win10-5	49974	204.79.197.220	https	TIME_WAIT										
+[System Process]	0	TCP	win10-5	49975	204.79.197.220	https	TIME_WAIT										
+[System Process]	0	TCP	win10-5	49980	204.79.197.220	https	TIME_WAIT										
+[System Process]	0	TCP	win10-5	49981	204.79.197.220	https	TIME_WAIT										
+firefox.exe	8140	TCP	win10-5	49800	localhost	49801	ESTABLISHED										
+firefox.exe	8140	TCP	win10-5	49801	localhost	49800	ESTABLISHED										
+firefox.exe	7856	TCP	win10-5	49803	localhost	49804	ESTABLISHED										
+firefox.exe	7856	TCP	win10-5	49804	localhost	49803	ESTABLISHED										
+firefox.exe	7376	TCP	win10-5	49807	localhost	49808	ESTABLISHED										
+firefox.exe	7376	TCP	win10-5	49808	localhost	49807	ESTABLISHED										
+firefox.exe	7700	TCP	win10-5	49809	localhost	49810	ESTABLISHED										
+firefox.exe	7700	TCP	win10-5	49810	localhost	49809	ESTABLISHED										
+firefox.exe	8140	TCP	win10-5	49819	ec2-52-10-115-210.us-west-2.compute.amazonaws.com	https	ESTABLISHED										
+firefox.exe	8140	TCP	win10-5	49890	sea15s11-in-f14.1e100.net	https	ESTABLISHED										
+firefox.exe	1568	TCP	win10-5	49894	localhost	49895	ESTABLISHED										
+firefox.exe	1568	TCP	win10-5	49895	localhost	49894	ESTABLISHED										
+firefox.exe	8140	TCP	win10-5	49917	185.199.108.154	https	ESTABLISHED										
+firefox.exe	8140	TCP	win10-5	49937	36.75.98.34.bc.googleusercontent.com	https	ESTABLISHED										
+firefox.exe	8140	TCP	win10-5	49948	151.101.52.133	https	ESTABLISHED										
+firefox.exe	8140	TCP	win10-5	49950	lb-192-30-255-113-sea.github.com	https	ESTABLISHED										
+firefox.exe	8140	TCP	win10-5	49952	ec2-52-22-118-231.compute-1.amazonaws.com	https	ESTABLISHED										
+firefox.exe	8140	TCP	win10-5	49953	lb-192-30-255-117-sea.github.com	https	ESTABLISHED										
+firefox.exe	8140	TCP	win10-5	49957	72.21.91.29	http	ESTABLISHED										
+firefox.exe	8140	TCP	win10-5	49958	72.21.91.29	http	ESTABLISHED										
+firefox.exe	8140	TCP	win10-5	49961	lb-192-30-255-113-sea.github.com	https	ESTABLISHED										
+firefox.exe	8140	TCP	win10-5	49963	lb-192-30-255-113-sea.github.com	https	ESTABLISHED										
+firefox.exe	8140	TCP	win10-5	49964	lb-192-30-255-113-sea.github.com	https	ESTABLISHED										
+firefox.exe	8140	TCP	win10-5	49965	lb-192-30-255-113-sea.github.com	https	ESTABLISHED										
+firefox.exe	8140	TCP	win10-5	49966	lb-140-82-113-25-iad.github.com	https	ESTABLISHED										
+firefox.exe	8140	TCP	win10-5	49967	151.101.52.133	https	ESTABLISHED										
+lsass.exe	644	TCP	win10-5	49664	win10-5	0	LISTENING										
+lsass.exe	644	TCPV6	win10-5	49664	win10-5	0	LISTENING										
+MicrosoftEdgeCP.exe	4712	TCP	win10-5	49842	a23-59-190-130.deploy.static.akamaitechnologies.com	https	CLOSE_WAIT										
+MicrosoftEdgeCP.exe	4712	TCP	win10-5	49843	a23-59-190-138.deploy.static.akamaitechnologies.com	https	CLOSE_WAIT										
+MicrosoftEdgeCP.exe	4712	TCP	win10-5	49844	a23-60-72-67.deploy.static.akamaitechnologies.com	https	ESTABLISHED										
+MicrosoftEdgeCP.exe	4712	TCP	win10-5	49848	72.21.91.29	http	CLOSE_WAIT										
+MicrosoftEdgeCP.exe	4712	TCP	win10-5	49849	72.21.91.29	http	CLOSE_WAIT										
+MsMpEng.exe	2920	TCP	win10-5	49939	104.40.17.153	https	ESTABLISHED										
+nginx.exe	6812	TCP	win10-5	http	win10-5	0	LISTENING										
+python.exe	6984	TCP	win10-5	8000	win10-5	0	LISTENING										
+SearchUI.exe	5264	TCP	win10-5	49976	13.107.246.254	https	ESTABLISHED										
+SearchUI.exe	5264	TCP	win10-5	49977	13.107.136.254	https	ESTABLISHED										
+SearchUI.exe	5264	TCP	win10-5	49978	13.107.255.32	https	ESTABLISHED										
+SearchUI.exe	5264	TCP	win10-5	49979	204.79.197.222	https	ESTABLISHED										
+services.exe	632	TCP	win10-5	49669	win10-5	0	LISTENING										
+services.exe	632	TCPV6	win10-5	49669	win10-5	0	LISTENING										
+spoolsv.exe	2508	TCP	win10-5	49668	win10-5	0	LISTENING										
+spoolsv.exe	2508	TCPV6	win10-5	49668	win10-5	0	LISTENING										
+svchost.exe	876	TCP	win10-5	epmap	win10-5	0	LISTENING										
+svchost.exe	3740	TCP	win10-5	5040	win10-5	0	LISTENING										
+svchost.exe	1156	TCP	win10-5	49666	win10-5	0	LISTENING										
+svchost.exe	1104	TCP	win10-5	49667	win10-5	0	LISTENING										
+svchost.exe	2912	TCP	win10-5	49674	52.230.222.68	https	ESTABLISHED										
+svchost.exe	8028	TCP	win10-5	49941	40.90.22.191	https	ESTABLISHED										
+svchost.exe	400	TCP	win10-5	ms-do	win10-5	0	LISTENING										
+svchost.exe	5808	UDP	win10-5	ssdp	*	*											
+svchost.exe	5808	UDP	win10-5	ssdp	*	*											
+svchost.exe	2500	UDP	win10-5	ws-discovery	*	*											
+svchost.exe	2500	UDP	win10-5	ws-discovery	*	*											
+svchost.exe	3740	UDP	win10-5	5050	*	*											
+svchost.exe	1800	UDP	win10-5	5353	*	*											
+svchost.exe	1800	UDP	win10-5	llmnr	*	*											
+svchost.exe	5808	UDP	win10-5	58152	*	*											
+svchost.exe	5808	UDP	win10-5	58153	*	*											
+svchost.exe	2960	UDP	win10-5	64088	*	*											
+svchost.exe	2500	UDP	win10-5	64089	*	*											
+svchost.exe	876	TCPV6	win10-5	epmap	win10-5	0	LISTENING										
+svchost.exe	400	TCPV6	win10-5	ms-do	win10-5	0	LISTENING										
+svchost.exe	1156	TCPV6	win10-5	49666	win10-5	0	LISTENING										
+svchost.exe	1104	TCPV6	win10-5	49667	win10-5	0	LISTENING										
+svchost.exe	5808	UDPV6	[0:0:0:0:0:0:0:1]	1900	*	*											
+svchost.exe	5808	UDPV6	[fe80:0:0:0:c88c:e921:e6dd:ba55]	1900	*	*											
+svchost.exe	2500	UDPV6	win10-5	3702	*	*											
+svchost.exe	2500	UDPV6	win10-5	3702	*	*											
+svchost.exe	1800	UDPV6	win10-5	5353	*	*											
+svchost.exe	1800	UDPV6	win10-5	5355	*	*											
+svchost.exe	5808	UDPV6	[fe80:0:0:0:c88c:e921:e6dd:ba55]	58150	*	*											
+svchost.exe	5808	UDPV6	[0:0:0:0:0:0:0:1]	58151	*	*											
+svchost.exe	2500	UDPV6	win10-5	64090	*	*											
+System	4	TCP	win10-5	netbios-ssn	win10-5	0	LISTENING										
+System	4	TCP	win10-5	microsoft-ds	win10-5	0	LISTENING										
+System	4	TCP	win10-5	icslap	win10-5	0	LISTENING										
+System	4	TCP	win10-5	wsd	win10-5	0	LISTENING										
+System	4	TCP	win10-5	10243	win10-5	0	LISTENING										
+System	4	UDP	win10-5	netbios-ns	*	*											
+System	4	UDP	win10-5	netbios-dgm	*	*											
+System	4	TCPV6	win10-5	microsoft-ds	win10-5	0	LISTENING										
+System	4	TCPV6	win10-5	icslap	win10-5	0	LISTENING										
+System	4	TCPV6	win10-5	wsd	win10-5	0	LISTENING										
+System	4	TCPV6	win10-5	10243	win10-5	0	LISTENING										
+wininit.exe	548	TCP	win10-5	49665	win10-5	0	LISTENING										
+wininit.exe	548	TCPV6	win10-5	49665	win10-5	0	LISTENING										
+wmpnetwk.exe	4168	TCP	win10-5	rtsp	win10-5	0	LISTENING										
+wmpnetwk.exe	4168	UDP	win10-5	5004	*	*											
+wmpnetwk.exe	4168	UDP	win10-5	5005	*	*											
+wmpnetwk.exe	4168	UDP	win10-5	5004	*	*											
+wmpnetwk.exe	4168	UDP	win10-5	5005	*	*											
+wmpnetwk.exe	4168	TCPV6	win10-5	rtsp	win10-5	0	LISTENING										
+wmpnetwk.exe	4168	UDPV6	win10-5	5004	*	*											
+wmpnetwk.exe	4168	UDPV6	win10-5	5005	*	*											
